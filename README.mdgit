@@ -1,0 +1,1 @@
+# pdf_poc # pdf_poc initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/janiofabio/pdf_poc.gitgit push -u origin main
